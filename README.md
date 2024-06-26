@@ -1,5 +1,5 @@
 ## Hi there 👋
-###Physics Undergraduate, Facultad de Ciencias Exactas y Naturales, Universidad Nacional de Cuyo
+### Physics Undergraduate, Facultad de Ciencias Exactas y Naturales, Universidad Nacional de Cuyo
 My name is Martina, I'm a physics undergraduate. My interests include (but are not limited to) climatological sciences and data analysis.
 
 - 🔭 I’m currently working on getting my degree!
