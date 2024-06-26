@@ -1,5 +1,9 @@
 ## Hi there 👋
+###Physics Undergraduate, Facultad de Ciencias Exactas y Naturales, Universidad Nacional de Cuyo
+My name is Martina, I'm a physics undergraduate. My interests include (but are not limited to) climatological sciences and data analysis.
 
+- 🔭 I’m currently working on getting my degree!
+- 🌱 I’m currently learning data analysis with python
 <!--
 **MartinaGalarzaM/MartinaGalarzaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
